@@ -2,7 +2,7 @@
 
 This project is a Python script that allows a user to download contract information from the RChain network based on a specific wallet address. The script connects to an API, retrieves contract information associated with the wallet, and allows the user to download related files.
 
-## Prerequisites
+## Required
 
 Before running the script, ensure you have the following installed on your system:
 
