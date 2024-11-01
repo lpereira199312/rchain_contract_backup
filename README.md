@@ -14,16 +14,15 @@ Before running the script, ensure you have the following installed on your syste
 1. **Clone the repository:**
 
    git clone https://github.com/lpereira199312/rchain_contract_backup.git
+   
    cd rchain_contract_backup
 
-2. **Install the required dependencies:**
+3. **Install the required dependencies:**
 
     You can install the necessary dependencies using pip. If the script does not have a requirements.txt file, you may need to install the requests library manually:
 
-    bash
-
     pip install requests
 
-3. **How to Run:**
+4. **How to Run:**
 
     python3 auto-backup.py
