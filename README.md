@@ -1,2 +1,29 @@
-# rchain_contract_backup
-software in python for contract backup in reactioon blockchain (rchain)
+# Contract Downloader
+
+This project is a Python script that allows a user to download contract information from the RChain network based on a specific wallet address. The script connects to an API, retrieves contract information associated with the wallet, and allows the user to download related files.
+
+## Prerequisites
+
+Before running the script, ensure you have the following installed on your system:
+
+- Python 3.x
+- pip (Python package manager)
+
+## Installation
+
+1. **Clone the repository:**
+
+   git clone https://github.com/lpereira199312/rchain_contract_backup.git
+   cd rchain_contract_backup
+
+2. **Install the required dependencies:**
+
+    You can install the necessary dependencies using pip. If the script does not have a requirements.txt file, you may need to install the requests library manually:
+
+    bash
+
+    pip install requests
+
+3. **How to Run:**
+
+    python3 auto-backup.py
